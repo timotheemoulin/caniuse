@@ -44,6 +44,9 @@
     },
     {
       "description":"IE11 does not support transitioning values set with `calc()`"
+    },
+    {
+      "description":"To use transition with calc, do it in two separated instructions. [JSFiddle calc() transition()](https://jsfiddle.net/oet4patb/6/)"
     }
   ],
   "categories":[
